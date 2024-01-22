@@ -5,15 +5,15 @@ const AboutPage = () => {
     <div className="p-4 md:p-8">
       <h1 className="text-2xl md:text-4xl font-bold mb-4">Welcome!</h1>
       <p className="text-base md:text-lg mb-6">
-        Iapos;m a versatile Software Engineer with a passion for technology. 
+        I am a versatile Software Engineer with a passion for technology. 
         Specializing in full-stack software engineering, with a background in 
         project management, I approach all challenges with an open-mind and a 
         unique amount of grit and persistence. My journey in tech is fueled by 
         a relentless pursuit of knowledge and a deep commitment to helping 
-        clients transform their visions into reality. Whether youapos;re looking 
+        clients transform their visions into reality. Whether you are looking 
         for an expert to lead your software project or need a creative mind 
-        to help you solve business challenges, youapos;ve come to the right place. 
-        Letapos;s collaborate to create something extraordinary!
+        to help you solve business challenges, you have come to the right place. 
+        Lets collaborate to create something extraordinary!
       </p>
       <hr className="my-6 border-t border-slate-200 dark:border-slate-700" />
       <ul className="list-none space-y-3">
